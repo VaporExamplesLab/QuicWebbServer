@@ -18,7 +18,7 @@
 [Original Setup](#OriginalSetup) •
 [Resources](#Resources) 
 
-## Getting Started <span id="GettingStarted">[▴](#toc)</span>
+## Getting Started <a id="GettingStarted"></a>[▴](#toc)
 
 **Prerequisites**
 
@@ -142,7 +142,7 @@ Click the run button and check the results in a browser at `http://localhost:808
 
 ![TBD:LandingPage](README_files/LandingPage.png)
 
-## Original Setup <span id="OriginalSetup">[▴](#toc)</span>
+## Original Setup <a id="OriginalSetup"></a>[▴](#toc)
 
 The following steps were completed to create the `QuicWebbUpdater` example. 
 
@@ -165,6 +165,6 @@ vapor update -y
 
 
 
-## Resources <span id="Resources">[▴](#toc)</span>
+## Resources <a id="Resources"></a>[▴](#toc)
 
 * [Bootstrap ⇗](https://getbootstrap.com)
